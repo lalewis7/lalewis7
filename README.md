@@ -24,6 +24,6 @@
 ## 👨‍💻 Technical Skills
 <!--tech stack icons-->
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py,react,vue,jquery,bootstrap,html,css,sass,spring,express,nodejs,php,nginx,postman,mysql,postgres,mongodb,aws,azure,docker,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py,react,vue,jquery,redux,bootstrap,html,css,sass,spring,express,nodejs,php,nginx,postman,mysql,postgres,mongodb,aws,azure,docker,git,github,vscode)](https://skillicons.dev)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=lalewis7&countColor=%23263759)
