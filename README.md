@@ -16,7 +16,7 @@
 ## 🌱 I’m currently learning 
 - Mockito
 - Kubernetes
-- Redux
+- Next.js
 - CI/CD pipelines
 <!-- Intro End -->
 
