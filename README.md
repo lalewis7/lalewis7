@@ -14,10 +14,9 @@
 ## 🔭 I’m currently working on
 - [Palette Hub](https://github.com/lalewis7/palettehub) - Skill showcase of a social media website
 ## 🌱 I’m currently learning 
-- Mockito
 - Kubernetes
 - Next.js
-- CI/CD pipelines
+- CI/CD Pipelines
 <!-- Intro End -->
 
 <!-- Tech Stack -->
