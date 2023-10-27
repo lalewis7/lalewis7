@@ -4,6 +4,8 @@
   </ul>
 </div>
 
+Checkout my [Portfolio Website](https://arthurlewis.net)
+
 ## 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/arthur-lewis/" target="blank" style="margin-right:0.25rem;"><img src="./svg/linkedin-svgrepo-com.svg" alt="linkedin" height="42" width="42" /></a>
