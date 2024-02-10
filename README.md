@@ -46,5 +46,5 @@ My interest and expertise is in building full-stack websites, from the frontend 
 [Gmail-url]: mailto:l.arthur.lewis7@gmail.com
 [Github]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
 [Github-url]: https://github.com/lalewis7
-[Website]: https://img.shields.io/badge/website-4234FE?style=for-the-badge&logoColor=white
+[Website]: https://img.shields.io/badge/portfolio-4234FE?style=for-the-badge&logoColor=white
 [Website-url]: https://arthurlewis.net/
