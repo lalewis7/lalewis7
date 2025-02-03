@@ -14,7 +14,6 @@
 
 [![Linkedin][Linkedin]][Linkedin-url]
 [![Website][Website]][Website-url]
-[![Gmail][Gmail]][Gmail-url]
 [![Github][Github]][Github-url]
 [![Medium][Medium]][Medium-url]
 [![Upwork][Upwork]][Upwork-url]
@@ -33,8 +32,6 @@
 [Medium-url]: https://medium.com/@arthur.lewis
 [Upwork]: https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white
 [Upwork-url]: https://www.upwork.com/freelancers/~0163c22c20ba2fdf7d
-[Gmail]: https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-[Gmail-url]: mailto:l.arthur.lewis7@gmail.com
 [Github]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
 [Github-url]: https://github.com/lalewis7
 [Website]: https://img.shields.io/badge/portfolio-4234FE?style=for-the-badge&logoColor=white
