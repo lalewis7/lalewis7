@@ -9,15 +9,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lalewis7/lalewis7/output/github-snake.svg">
 </picture>
 
-<!-- About -->
-## About me
-
-Hi there! My name is Arthur Lewis, and I am a creative, dynamic, and meticulous full-stack software engineer with a passion for facilitating positive change through my work.
-
-I hold an integrated degree in computer science and business with a minor in data science from Lehigh University — however, my expertise and enthusiasm for technology extends far past my undergraduate education. I’ve been creating programs that entertain, educate, and, maybe, make life a little easier since I was 14 years old.
-
-My interest and expertise is in building full-stack websites, from the frontend user interface and experience to the backend business logic, database design, and infrastructure.
-
 <!-- Connect -->
 ## 🤝 Connect with me
 
